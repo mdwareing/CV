@@ -5,8 +5,6 @@ I am a Junior Full Stack Developer, having recently graduated from Makers, a hig
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/mdwareing).
-
 | Project   | Description | Technologies | Development Timeframe | Test Suites/CIs/CDs Employed
 |---        |---         |---           |---           |---
 | [SentimentAlyzer](https://github.com/mdwareing/MA_final_project) | Final 4 group member project at Makers: a Twitter bot and web app that uses natural language processing to analyse conversations and trends on Twitter | React, Express, NodeJS, IBM Watson  | 2 Weeks | Jest, Enzyme
