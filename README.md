@@ -3,9 +3,7 @@
 
 <img src=https://www.codewars.com/users/mdwareing/badges/large>
 
-A sentence about who and what you are. 
-Then a sentence about what you've achieved. 
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a Junior Full Stack Developer, having recently graduated from Makers, a highly selective 16 week full-time bootcamp. Having built projects before Makers I am confident of my ability to now write scalable, efficient and well-tested code. I am looking for a role in which I can continue to learn and absorb new technologies, as well as working on great products.
 
 ## Projects
 
@@ -51,17 +49,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - NodeJS Applications
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Southampton University (2015 to 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Economics and Politics
+- Foundational Certificate 2:1
+
+#### Edgbarrow Secondary School (2007 to 2014)
+
+- A levels: A* Business, A Economics
+- GCSEs: 13 A*-C, 9 A*-A
 
 ## Experience
 
 **Lemonade Connect** (March '18 to Present)    
-*Lead Developer*  
+*Lead Developer*
 
+**MatchedBettingExpert** (2015 to 2016)    
+*Founder*
 
 ## Contact Details
 
