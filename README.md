@@ -11,12 +11,12 @@ And then a sentence about what you're looking for: what you would ideally be doi
 
 For a complete list, see my [GitHub](https://github.com/mdwareing).
 
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [LemonadeConnect](https://lemonadeconnect.com/) | B2B company that helps match suppliers of audo-visual equipement with contractors  | NodeJS, MongoDB, Express, Sockets |
-| [SentimentAlyzer](https://github.com/mdwareing/MA_final_project) | Final group project at Makers: a Twitter bot and web app that uses natural language processing to analyse conversations and trends on Twitter | React, Express, NodeJS,   |
-| [UrlShortener](https://github.com/mdwareing/shortening_url) | A service that generates a unique shortened URL | NodeJS, MongoDB, MLab, Bootstrap |
-|[Voting App](https://github.com/mdwareing/MA_final_project)| An application that lets users login using a variety of social media platforms (accounts across different platforms are linked) to vote on polls. | NodeJS, OAuth2 |
+| Project   | Description | Technologies | Development Timeframe | Test Suites/CIs/CDs Employed
+|---        |---         |---           |---           |---
+| [LemonadeConnect](https://lemonadeconnect.com/) | B2B company that helps match suppliers of audo-visual equipement with contractors  | NodeJS, MongoDB, Express, Sockets | 3 Months | QA Testers
+| [SentimentAlyzer](https://github.com/mdwareing/MA_final_project) | Final 4 group member project at Makers: a Twitter bot and web app that uses natural language processing to analyse conversations and trends on Twitter | React, Express, NodeJS, IBM Watson  | 2 Weeks | Jest, Enzyme
+|[Acebook-off-the-rails](https://github.com/mdwareing/acebook-off-the-rails)| A group of five us built a full-stack Ruby-On-Rails facebook clone | Ruby on Rails, HTML/CSS (Bootstrap), PostgreSQL, Heroku | 2 Weeks | RSpec, Capybara, Travis
+|[StinkBugBnB](https://github.com/mdwareing/stinkbugs-bnb)| A four person group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email notifications	 | NodeJS, Express, MongoDB | 1 Week | Cypress
 
 ## Skills
 
