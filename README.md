@@ -68,6 +68,10 @@ From a young age I've struck my own path, I have always seeked to learn and achi
 
 ## Interests
 
+- Football
+- Running (If my knees aren't broken)
+- Reading
+- Piano
 
 ## Contact Details
 
