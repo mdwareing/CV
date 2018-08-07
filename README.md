@@ -1,7 +1,5 @@
 ## Matthew Wareing contact@matthewwareing.com
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](https://matthewwareing.com)
-
-<img src=https://www.codewars.com/users/mdwareing/badges/large>
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](https://matthewwareing.com)
 
 I am a Junior Full Stack Developer, having recently graduated from Makers, a highly selective 16 week full-time bootcamp. Having built projects before Makers I am confident of my ability to now write scalable, efficient and well-tested code. I am looking for a role in which I can continue to learn and absorb new technologies, as well as working on great products.
 
@@ -68,7 +66,7 @@ From a young age I've struck my own path, I have always seeked to learn and achi
 **MatchedBettingExpert** (2015 to 2016)    
 *Founder*
 
-## hobbies-and-interests
+## Interests
 
 
 ## Contact Details
