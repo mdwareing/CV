@@ -13,8 +13,8 @@ For a complete list, see my [GitHub](https://github.com/mdwareing).
 
 | Project   | Description | Technologies | Development Timeframe | Test Suites/CIs/CDs Employed
 |---        |---         |---           |---           |---
-| [LemonadeConnect](https://lemonadeconnect.com/) | B2B company that helps match suppliers of audo-visual equipement with contractors  | NodeJS, MongoDB, Express, Sockets | 3 Months | QA Testers
 | [SentimentAlyzer](https://github.com/mdwareing/MA_final_project) | Final 4 group member project at Makers: a Twitter bot and web app that uses natural language processing to analyse conversations and trends on Twitter | React, Express, NodeJS, IBM Watson  | 2 Weeks | Jest, Enzyme
+| [LemonadeConnect](https://lemonadeconnect.com/) | B2B company that helps match suppliers of audo-visual equipement with contractors  | NodeJS, MongoDB, Express, Sockets | 3 Months | QA Testers
 |[Acebook-off-the-rails](https://github.com/mdwareing/acebook-off-the-rails)| A group of five us built a full-stack Ruby-On-Rails facebook clone | Ruby on Rails, HTML/CSS (Bootstrap), PostgreSQL, Heroku | 2 Weeks | RSpec, Capybara, Travis
 |[StinkBugBnB](https://github.com/mdwareing/stinkbugs-bnb)| A four person group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email notifications	 | NodeJS, Express, MongoDB | 1 Week | Cypress
 
