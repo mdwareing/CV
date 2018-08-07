@@ -1,5 +1,5 @@
-## Matthew Wareing
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](https://matthewwareing.com) | [Blog](https://medium.com/@mdwareing)
+## Matthew Wareing contact@matthewwareing.com
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Website](https://matthewwareing.com)
 
 <img src=https://www.codewars.com/users/mdwareing/badges/large>
 
@@ -67,6 +67,9 @@ From a young age I've struck my own path, I have always seeked to learn and achi
 
 **MatchedBettingExpert** (2015 to 2016)    
 *Founder*
+
+## hobbies-and-interests
+
 
 ## Contact Details
 
