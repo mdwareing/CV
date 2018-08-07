@@ -29,28 +29,20 @@ Over the course of Makers I worked on several group projects. The first was a cl
 
 #### Clean Test Driven Code
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Before Makers I found myself time and time again concerned and unable to know if my latest git push would break something for a customer, now I feel confident that I can write code that is clear, concise and scalable. By having access to proffessional coaches I was able to get quick feedback on how to make sure tests were durable and my code inturn this made me think harder about the code I was writing, leading to more SOLID code.
 
-- Experience
-- Achievements
-- Evidence
+#### Self-starter
 
-#### Another Skill
+From a young age I've struck my own path, I have always seeked to learn and achieve new things beyond my current abilities. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Publishing profitable Iphone Apps and taking on coding jobs at 14
+- Founding a sports betting arbitrage company at 20
+- Cryptocurrencies (before it was cool)
+- Re-learning how to code to become the leading dev for a friends new company
 
 ## Education
 
 #### Makers Academy (May 2018 to August 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
