@@ -1,5 +1,5 @@
 ## Matthew Wareing contact@matthewwareing.com
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](https://matthewwareing.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I am a Junior Full Stack Developer, having recently graduated from Makers, a highly selective 16 week full-time bootcamp. Having built projects before Makers I am confident of my ability to now write scalable, efficient and well-tested code. I am looking for a role in which I can continue to learn and absorb new technologies, as well as working on great products.
 
