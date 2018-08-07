@@ -13,9 +13,10 @@ For a complete list, see my [GitHub](https://github.com/mdwareing).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [SpotifyPlaylists](https://github.com/mdwareing/spotify-playlist) | Let users login into their spotify accounts and visualise their playlists | NodeJS, React |
-|[Voting App](https://github.com/mdwareing/node_voting_app)| An application that lets users login using a variety of social media platforms (accounts across different platforms are linked) to vote on polls. | NodeJS, OAuth2 |
-| [UrlShortener](https://github.com/mdwareing/shortening_url) | A service that generates a unique shortened URL | Node.js, MongoDB, MLab, Bootstrap |
+| [LemonadeConnect](https://lemonadeconnect.com/) | B2B company that helps match suppliers of audo-visual equipement with contractors  | NodeJS, MongoDB, Express, Sockets |
+| [SentimentAlyzer](https://github.com/mdwareing/MA_final_project) | Final group project at Makers: a Twitter bot and web app that uses natural language processing to analyse conversations and trends on Twitter | React, Express, NodeJS,   |
+| [UrlShortener](https://github.com/mdwareing/shortening_url) | A service that generates a unique shortened URL | NodeJS, MongoDB, MLab, Bootstrap |
+|[Voting App](https://github.com/mdwareing/MA_final_project)| An application that lets users login using a variety of social media platforms (accounts across different platforms are linked) to vote on polls. | NodeJS, OAuth2 |
 
 ## Skills
 
